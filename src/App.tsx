@@ -610,8 +610,6 @@ export default function App() {
       // ignore
     }
   }
-    } catch {}
-  }
 
   function clearCustomGraph() {
     localStorage.removeItem(LS_CUSTOM);
